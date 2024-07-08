@@ -1,4 +1,15 @@
-$ git log
+************************************************
+** Proyectos Forkasteados y con contribución: **
+************************************************
+
+https://github.com/Catherinesolarte/catherinesolarte.github.io/pull/2
+https://github.com/AbelAvinaZ/AbelAvinaZ.github.io/pull/4
+
+
+************************************************
+**       LOG de GIT Proyecto Principal        **
+************************************************
+
 commit 9b7cd44874f46bdd884128f3673ed87d885eb7f9 (HEAD -> main, origin/main)
 Author: ManuelEMoyaPerez <mmoya72@gmail.com>
 Date:   Thu Jul 4 22:24:44 2024 -0400
